@@ -1,0 +1,1 @@
+# mysql-crude-operation-in-flask
